@@ -7,10 +7,8 @@
 <div>
   <img src="https://img.shields.io/badge/Figma-6666ff?style=flat&logo=Figma&logoColor=white" />
   <img src="https://img.shields.io/badge/AdobeXD-668cff?style=flat&logo=AdobeXD&logoColor=white" />
+  <img src="https://img.shields.io/badge/VScode-66d9ff?style=flat&logo=VScode&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-66ffff?style=flat&logo=Git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-66d9ff?style=flat&logo=Figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ-668cff?style=flat&logo=IntelliJ IDEA&logoColor=white" />
-  <img src="https://img.shields.io/badge/VScode-6666ff?style=flat&logo=Visual Studio Code&logoColor=white" />
   <br>
 </div>
 
