@@ -22,7 +22,7 @@ and learning Frontend Development <br>
   <img src="https://img.shields.io/badge/IntelliJ-668cff?style=flat&logo=IntelliJ IDEA&logoColor=white" />
   <img src="https://img.shields.io/badge/VScode-6666ff?style=flat&logo=Visual Studio Code&logoColor=white" />
   <br>
-  <b>Currently learning · · ·</b>&nbsp
+  Currently learning · · · &nbsp
   <img src="https://img.shields.io/badge/REACT-669999?style=flat&logo=REACT&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-669999?style=flat&logo=TypeScript&logoColor=white" />
   <br>
