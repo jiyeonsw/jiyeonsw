@@ -6,9 +6,8 @@ and learning Frontend Development <br> </b>
 <div>
   <img src="https://img.shields.io/badge/HTML-ff6666?style=flat&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-ff8c66?style=flat&logo=CSS3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-ffb366?style=flat&logo=JavaScript&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-ffd966?style=flat&logo=jQuery&logoColor=white" />
-  <img src="https://img.shields.io/badge/REACT-ffff66?style=flat&logo=REACT&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-ffb366?style=flat&logo=jQuery&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-ffd966?style=flat&logo=JavaScript&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/JAVA-d9ff66?style=flat&logo=CoffeeScript&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-b3ff66?style=flat&logo=SPRING&logoColor=white" />
