@@ -1,5 +1,5 @@
 <h2>Introduction</h2>
-UI UX Web App Designer <br>
+Web App UI UX Designer <br>
 and learning Frontend Development <br>
 
 <h2>Tech stack and environment</h2>
