@@ -3,7 +3,7 @@
 🔸 Web App UI UX Designer <br>
 🔸 learning Frontend Development <br> </b>
 <br>
-<br>
+
 <h2>Environment</h2>
 <br>
 <div>
@@ -14,14 +14,14 @@
   <br>
 </div>
 <br>
-<br> 
+
 <h2>Languages</h2>
 <br>
 <div>
   <img src="https://img.shields.io/badge/HTML-ff6666?style=flat&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-ff8c66?style=flat&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-ffb366?style=flat&logo=JavaScript&logoColor=white" />
-  
+  <br>
   <img src="https://img.shields.io/badge/jQuery-ffd966?style=flat&logo=jQuery&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVA-d9ff66?style=flat&logo=CoffeeScript&logoColor=white" />
   <br>
@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/ RDS-669999?style=flat&logo=Amazon RDS&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-669999?style=flat&logo=TypeScript&logoColor=white" />
 </div>
-<br>
+
 <br>
 <h2></h2>
 
