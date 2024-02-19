@@ -1,10 +1,12 @@
 <h2>Introduction</h2>
-✔️☑️🔸 Web App UI UX Designer <br>
+🔸 Web App UI UX Designer <br>
 🔸 learning Frontend Development <br> </b>
 <br>
 
 <h2>Environment</h2>
 <div>
+  <img src="https://img.shields.io/badge/Figma-6666ff?style=flat&logo=Figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/AdobeXD-668cff?style=flat&logo=AdobeXD&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-66ffff?style=flat&logo=Git&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-66d9ff?style=flat&logo=Figma&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ-668cff?style=flat&logo=IntelliJ IDEA&logoColor=white" />
@@ -18,11 +20,12 @@
   <img src="https://img.shields.io/badge/HTML-ff6666?style=flat&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-ff8c66?style=flat&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-ffb366?style=flat&logo=JavaScript&logoColor=white" />
+  <br>
   <img src="https://img.shields.io/badge/jQuery-ffd966?style=flat&logo=jQuery&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVA-d9ff66?style=flat&logo=CoffeeScript&logoColor=white" />
   <img src="https://img.shields.io/badge/ RDS-8cff66?style=flat&logo=Amazon RDS&logoColor=white" />
   <br>
-  Currently learning · · · &nbsp
+  and learning · · · &nbsp
   <img src="https://img.shields.io/badge/REACT-669999?style=flat&logo=REACT&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-669999?style=flat&logo=TypeScript&logoColor=white" />
   <br>
