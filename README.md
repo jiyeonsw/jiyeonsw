@@ -1,6 +1,6 @@
 <h2>Introduction</h2>
-🌿 Hello ෆ Happy to see you! 👋<br>
-🌿 I'm learning Frontend Development 🥰<br>
+🌿 UI UX Web App Designer <br>
+🌿 and learning Frontend Development <br>
 
 <h2>Tech stack and environment</h2>
 <div>
